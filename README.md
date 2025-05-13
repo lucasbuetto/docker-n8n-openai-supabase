@@ -26,7 +26,7 @@ Make sure you have the following installed:
 
 2. **Configure environment variables**:
 
-   Rename the `.env.example` file to `.env` and update the values as needed:
+   Rename the `.env.example` file to `.env.local` and update the values as needed:
 
    ```bash
    cp .env.example .env
